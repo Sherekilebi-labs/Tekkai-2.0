@@ -1,0 +1,10 @@
+{
+  "exported": "2026-10-29",
+  "sourceFiles": {
+    "platformio.ini": "a71c3201365afbcb5e8ce231c5e32b160da1ffecc32e5b4f0646dea12565e8be",
+    "src/sumoFinal_wifi_debug.ino": "82696f481d52877849a212c4ee0dfa128516c73586c26f7f7aef9303269fd079",
+    "scripts/sumoFinal.ino": "8e6a718ac70c574d3dc0092ad562493ee657b18d3b52b79efdbbc9a13d9e0eb6",
+    "scripts/motor_pin_control.ino": "19f79eac4ecaeceaf548ddeb331fff71c627cdf2bd11ccee187fd6f8f89d81f8"
+  },
+  "build": "PlatformIO esp32dev succeeded; no hardware flashed"
+}
